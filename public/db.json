@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "name": "Jack",
+      "number": "099-054-47-55",
+      "address": "Rivne",
+      "email": "fsdfn@rkd.com",
+      "id": 6
+    },
+    {
+      "name": "Frank",
+      "number": "099-648-45-22",
+      "address": "Kyiv",
+      "email": "f@inter.com",
+      "id": 8
+    },
+    {
+      "name": "Max",
+      "address": "Kyiv",
+      "number": "098-154-00-78",
+      "id": 9
+    }
+  ],
+  "addusers": [
+    [
+      {
+        "name": "Jack",
+        "number": "099-054-47-55",
+        "address": "Rivne",
+        "email": "fsdfn@rkd.com",
+        "id": 6
+      },
+      {
+        "name": "Frank",
+        "number": "099-648-45-22",
+        "address": "Kyiv",
+        "email": "f@inter.com",
+        "id": 8
+      }
+    ],
+    [
+      {
+        "name": "Jack",
+        "number": "099-054-47-55",
+        "address": "Rivne",
+        "email": "fsdfn@rkd.com",
+        "id": 6
+      },
+      {
+        "name": "Frank",
+        "number": "099-648-45-22",
+        "address": "Kyiv",
+        "email": "f@inter.com",
+        "id": 8
+      }
+    ],
+    [
+      {
+        "name": "Kelly",
+        "number": "073-456-87-22",
+        "address": "Lviv",
+        "email": "gmb@mail.com",
+        "id": 9
+      },
+      {
+        "name": "Max",
+        "number": "098-963-92-94",
+        "address": "Poland",
+        "email": "maxkilter@yahoo.com",
+        "id": 4
+      }
+    ],
+    [
+      {
+        "name": "Max",
+        "number": "098-963-92-94",
+        "address": "Poland",
+        "email": "maxkilter@yahoo.com",
+        "id": 4
+      },
+      {
+        "name": "Frank",
+        "number": "099-648-45-22",
+        "address": "Kyiv",
+        "email": "f@inter.com",
+        "id": 8
+      }
+    ],
+    [
+      {
+        "name": "Max",
+        "number": "098-963-92-94",
+        "address": "Poland",
+        "email": "maxkilter@yahoo.com",
+        "id": 4
+      },
+      {
+        "name": "Frank",
+        "number": "099-648-45-22",
+        "address": "Kyiv",
+        "email": "f@inter.com",
+        "id": 8
+      },
+      {
+        "name": "Kelly",
+        "number": "073-456-87-22",
+        "address": "Lviv",
+        "email": "gmb@mail.com",
+        "id": 9
+      }
+    ]
+  ]
+}
