@@ -38,32 +38,6 @@ export const rootReducer = handleActions({
 
   }, initialState);
 
-export const Events = (state) => state.events;
 
-// const reducer = (state = { userStore: [] }, action) => {
-//    if (action.type === 'GET_USER_LIST') {
-//       return update(state, {
-//         userStore: { $set: action.payload }
-//       });
-//    }
-//
-//    if (action.type === 'ADD_USER') {
-//       return update(state, {
-//         userStore: { $push: [action.payload] }
-//       });
-//    }
-//
-//    if (action.type === DELETE_USER) {
-//     const index = state.userStore.findIndex(item => item.id === action.payload);
-//     return update(state, {
-//       userStore: { $splice: [[index, 1]] }
-//     });
-//    }
-//
-//    if (action.type === 'FILTER_LIST') {
-//      return update(state, {
-//        userStore: { $set: action.payload }
-//      });
-//    }
-//     return state;
-//  }
+
+
